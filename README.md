@@ -116,7 +116,7 @@ I believe in **clarity, precision, and system thinking** — values that guide e
 **Contact:** [me.mail.amit@gmail.com](mailto:me.mail.amit@gmail.com)  
 **Current Mission:** Building scalable platforms that connect people, systems, and ideas.  
 **Location:** Petaling Jaya, Selangor, Malaysia  
-**Languages:** English · Bengali · Hindi
+**Languages:** English · Bengali
 
 ---
 
