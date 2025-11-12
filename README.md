@@ -1,30 +1,123 @@
-## Hi there 👋 I'm Amit
+# Hi, I’m **Amit Hasan**
 
-I am a Software Architect, System Designer, and Developer with expertise in full-stack development, networking, cybersecurity, and IoT solutions. I have a deep passion for building scalable systems, efficient architectures, and high-performance applications.
+**Software Architect · System Designer · Full-Stack Developer**  
+> Crafting systems that think, scale, and last.
 
-- 💬 Ask me about **networking concepts** (e.g., subnetting, DHCP, DNS), **IoT solutions**, or **app development** with Flutter. I'm also interested in discussions about building a software company—I'm considering naming mine 'Zero Inn.'
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://amitzero.github.io/)
+[![Email](https://img.shields.io/badge/Email-me.mail.amit%40gmail.com-gray)](mailto:me.mail.amit@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amitzero/)
+[![GitHub](https://img.shields.io/badge/GitHub-amitzero-lightgrey)](https://github.com/amitzero)
 
-- 📫 How to reach me: me.mail.amit@gmail.com
+---
 
-- ⚡ Fun fact: I’m passionate about both tech and entrepreneurship, blending my love for coding with the dream of starting my own software company.
+I design and build **scalable software systems**, **intelligent architectures**, and **cross-platform applications** that merge performance with reliability.  
+My expertise spans **full-stack development**, **network engineering**, **IoT**, and **cybersecurity** — blending creativity with technical precision to deliver practical, elegant solutions.
 
-## Skills:
-- **Programming Languages:** C, C++, C#, Java, Kotlin, Swift, Python, JavaScript, TypeScript, PHP, Dart
-- **Frameworks:** React, Next.js, Nest.js, Express, Django, Flutter, Unity 3D
-- **Mobile Development:** Android Studio, Flutter
-- **IoT Development:** ESP32, Arduino, Raspberry Pi, other microcontrollers
-- **Databases:** PostgreSQL, MySQL, NoSQL, Firebase (all products)
-- **Cloud Platforms:** Google Cloud, Firebase
-- **Networking:** Subnetting, DHCP, DNS, Routing, Switching
-- **Server Configuration:** Windows Server 2008, Active Directory
-- **Cybersecurity:** Basic security protocols and maintenance
+> “Code is not just logic — it’s architecture, communication, and vision.”
 
-## Projects:
-- **ZeCon (Messaging App for Zero Inn):** An email-based messaging app similar to WhatsApp, but without requiring phone numbers or status updates. [GitHub](https://github.com/amit/zecon)
-- **Orang Asli Student Transportation & Attendance System:** A government-backed system for tracking school buses and students. [GitHub](#)
-- **Buraq Oil Tanker Tracking System:** A tracking system for Buraq Oil Company to monitor tankers, track orders, and prevent deviations from assigned routes. [GitHub](#)
-- **IoT-Based Smart Attendance System (ESP32 + RFID) [Future Implementation]:** A planned smart attendance system that will use RFID tags & IoT to mark student attendance in schools. [GitHub](#)
-- **Online Course Management App (Not Fully Completed):** A mobile app that provides an online learning platform with courses, quizzes, and progress tracking. [GitHub](#)
-- **Modular House Design System (Currently in Development):** A software tool for designing prefabricated houses with customizable layouts and materials. [GitHub](#)
-- **Other Completed Projects:** Printer Firmware, Store Inventory System Mobile App, Gym Fitness Tracker, News App, Home Automation (Arduino/ESP32), Student Routine Management Mobile App, Tour Sharing Platform Mobile App, Language Learning Platform Mobile App, Personal Finance Management Mobile App, E-Wallet Mobile App, News Portal (Backend, Frontend, Mobile App)
-- **C/C++, Java, Python Projects:** Server-Client Systems, Linked Lists, Hash Tables, Socket Programming, CUDA (GPU-based parallel programming), Cache Simulation, Compiler/Language Parsers, Custom Shell, DFS Algorithm, BST Algorithm
+---
+
+## 🔭 Current Focus
+- Building modular backend systems with **NestJS + PostgreSQL + Microservices**
+- Developing **Katne** – a personal driver service platform (Next.js, Flutter, NestJS)
+- Designing **Zero Inn’s** unified authentication and user management system
+- Exploring **real-time communication** and **hybrid mobile architecture**
+
+---
+
+## ⚙️ Expertise & Focus
+
+| Area | What I Do |
+|------|------------|
+| **System Architecture** | Design modular backends, microservices, and cloud infrastructure |
+| **Full-Stack Development** | Build production-grade web and mobile apps using modern frameworks |
+| **Networking & Security** | Configure secure systems with optimized protocols and layered defense |
+| **IoT & Embedded Systems** | Integrate microcontrollers (ESP32, Arduino) with real-time applications |
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**  
+`C` · `C++` · `C#` · `Java` · `Kotlin` · `Swift` · `Python` · `JavaScript` · `TypeScript` · `PHP` · `Dart`
+
+**Frameworks & Tools**  
+`React` · `Next.js` · `NestJS` · `Express` · `Django` · `Flutter` · `Unity` · `Node.js`
+
+**Databases**  
+`PostgreSQL` · `MySQL` · `Firebase` · `MongoDB` · `Redis`
+
+**Cloud & DevOps**  
+`Google Cloud` · `Firebase` · `Docker` · `Linux` · `CI/CD`
+
+**Networking & Security**  
+`Subnetting` · `DHCP` · `DNS` · `Routing` · `Switching` · `Active Directory` · `Cybersecurity Essentials`
+
+---
+
+## 📂 Featured Projects
+
+<details>
+<summary><b>ZeCon – Email-Based Messaging Platform</b></summary>
+<p>
+A privacy-first chat platform designed for Zero Inn, combining the simplicity of email with the real-time experience of messaging apps — no phone numbers, no status tracking, only secure connections.
+</p>
+<a href="https://github.com/amit/zecon">View on GitHub →</a>
+</details>
+
+<details>
+<summary><b>Orang Asli Transportation & Attendance System</b></summary>
+<p>
+A government-backed system for managing school transportation and attendance, tracking student movement in real-time through bus driver and admin dashboards.
+</p>
+<a href="#">View on GitHub →</a>
+</details>
+
+<details>
+<summary><b>Buraq Oil Tanker Tracking System</b></summary>
+<p>
+Fleet management platform for monitoring oil tankers, preventing unauthorized route deviations, and automating delivery tracking.
+</p>
+<a href="#">View on GitHub →</a>
+</details>
+
+<details>
+<summary><b>Smart IoT Attendance (ESP32 + RFID)</b></summary>
+<p>
+IoT-based attendance system using RFID and ESP32 microcontrollers — designed for schools and institutions with automatic data sync and dashboard integration.
+</p>
+<a href="#">View on GitHub →</a>
+</details>
+
+<details>
+<summary><b>Modular House Design System</b></summary>
+<p>
+An interactive platform for designing prefabricated modular houses with customizable materials, dimensions, and visual layouts.
+</p>
+<a href="#">View on GitHub →</a>
+</details>
+
+---
+
+## 💡 About Me
+
+I combine **technical depth** with **entrepreneurial vision**, working toward building a software company — **Zero Inn** — focused on creating high-performance, human-centered digital solutions.  
+I believe in **clarity, precision, and system thinking** — values that guide every project I design or lead.
+
+---
+
+## 📊 GitHub Insights
+
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitzero&show_icons=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitzero&layout=compact&theme=default)
+
+---
+
+**Contact:** [me.mail.amit@gmail.com](mailto:me.mail.amit@gmail.com)  
+**Current Mission:** Building scalable platforms that connect people, systems, and ideas.  
+**Location:** Petaling Jaya, Selangor, Malaysia  
+**Languages:** English · Bengali · Hindi
+
+---
+
+⭐️ _“Every line of code is a decision — make it deliberate.”_
